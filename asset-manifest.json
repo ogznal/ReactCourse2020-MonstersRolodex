@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ReactCourse2020-MonstersRolodex/static/css/main.18436285.css",
-    "main.js": "/ReactCourse2020-MonstersRolodex/static/js/main.b4e47299.js",
+    "main.js": "/ReactCourse2020-MonstersRolodex/static/js/main.e7751b22.js",
     "static/js/787.fbb2c275.chunk.js": "/ReactCourse2020-MonstersRolodex/static/js/787.fbb2c275.chunk.js",
     "index.html": "/ReactCourse2020-MonstersRolodex/index.html",
     "main.18436285.css.map": "/ReactCourse2020-MonstersRolodex/static/css/main.18436285.css.map",
-    "main.b4e47299.js.map": "/ReactCourse2020-MonstersRolodex/static/js/main.b4e47299.js.map",
+    "main.e7751b22.js.map": "/ReactCourse2020-MonstersRolodex/static/js/main.e7751b22.js.map",
     "787.fbb2c275.chunk.js.map": "/ReactCourse2020-MonstersRolodex/static/js/787.fbb2c275.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18436285.css",
-    "static/js/main.b4e47299.js"
+    "static/js/main.e7751b22.js"
   ]
 }
